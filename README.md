@@ -3,7 +3,7 @@
 
 <h1 align="left">Namaste 🙏, I'm Prasad Dhend</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="Developer" src="https://github.com/PrasadDhend/PrasadDhend/blob/main/git_profile.gif"/>
+<img align="right" width="400" alt="Developer" src="https://github.com/PrasadDhend/PrasadDhend/blob/main/git_profile.gif" />
 
 - 🌱 I’m currently learning **Cyber Security**
 
