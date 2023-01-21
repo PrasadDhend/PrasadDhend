@@ -1,7 +1,8 @@
 
 <h1 align="center">Namaste 🙏, I'm Prasad Dhend</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-(https://giphy.com/gifs/2HbChCHDOdUybiuyIF)
+
+![](https://github.com/PrasadDhend/PrasadDhend/blob/main/git_profile.gif)
 
 - 🌱 I’m currently learning **Cyber Security**
 
